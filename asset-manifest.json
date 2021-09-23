@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Quora_for_EV/static/css/main.5893493e.chunk.css",
+    "main.js": "/Quora_for_EV/static/js/main.12dffe13.chunk.js",
+    "main.js.map": "/Quora_for_EV/static/js/main.12dffe13.chunk.js.map",
+    "runtime-main.js": "/Quora_for_EV/static/js/runtime-main.059a9435.js",
+    "runtime-main.js.map": "/Quora_for_EV/static/js/runtime-main.059a9435.js.map",
+    "static/js/2.e2d31a5c.chunk.js": "/Quora_for_EV/static/js/2.e2d31a5c.chunk.js",
+    "static/js/2.e2d31a5c.chunk.js.map": "/Quora_for_EV/static/js/2.e2d31a5c.chunk.js.map",
+    "index.html": "/Quora_for_EV/index.html",
+    "static/css/main.5893493e.chunk.css.map": "/Quora_for_EV/static/css/main.5893493e.chunk.css.map",
+    "static/js/2.e2d31a5c.chunk.js.LICENSE.txt": "/Quora_for_EV/static/js/2.e2d31a5c.chunk.js.LICENSE.txt",
+    "static/media/CST-logo.cbfeb205.png": "/Quora_for_EV/static/media/CST-logo.cbfeb205.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.059a9435.js",
+    "static/js/2.e2d31a5c.chunk.js",
+    "static/css/main.5893493e.chunk.css",
+    "static/js/main.12dffe13.chunk.js"
+  ]
+}
